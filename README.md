@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+video demo app : https://rb.gy/v2vjzu
+using : 
+ - React (react-redux ,react-router-dom)
+ - Redux (redux-thunk, redux-form, redux dev tool)
+ - Axios, Google Auth, restful api (json-server)
+ - RTMP server, OSB
+ - Semantic-ui
+
 In the project directory, you can run:
 
 ### `yarn start`
